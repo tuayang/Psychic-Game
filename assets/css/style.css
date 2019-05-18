@@ -1,0 +1,8 @@
+html, body {
+    background: url("/assets/images/abc.jpg")  fixed center;    
+}
+
+.jumbotron {
+    background-color: rgb(61, 112, 61);
+    color: white;
+}
